@@ -696,7 +696,7 @@ body.dark-theme {
 }
 
 .contact__card-description {
-  font-size: var(--smaller-font-size);
+  font-size: 12px;
 }
 
 .contact__card-button {
