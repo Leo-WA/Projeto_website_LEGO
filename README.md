@@ -21,6 +21,3 @@ O site da LEGO Engenharia foi projetado com um foco em clareza e usabilidade, ga
 
 ## Como Visualizar
 Você pode visualizar o projeto ao vivo através do [link](https://www.legoengenharia.org).
-
-## Repositório no GitHub
-[Repositório do Projeto no GitHub](URL_do_Repositório)
